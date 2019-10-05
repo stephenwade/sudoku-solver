@@ -1,0 +1,1236 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"StepSOlve",
+				"StepSolveResult"
+			],
+			[
+				"cells",
+				"cells_with_this_guess"
+			],
+			[
+				"SolveOnly",
+				"SolveOnlyOccurrenceOfNumberInSingleRegion"
+			],
+			[
+				"TrimGu",
+				"TrimGuessesSingleRegion"
+			],
+			[
+				"_par",
+				"_partitionsData"
+			],
+			[
+				"ro",
+				"root_password"
+			],
+			[
+				"my",
+				"mysql-backup"
+			],
+			[
+				"ser",
+				"serveraliases"
+			],
+			[
+				"puppet",
+				"puppet-letsencrypt"
+			],
+			[
+				"Art",
+				"ArticleText"
+			],
+			[
+				"GET",
+				"_GET"
+			],
+			[
+				"articlegr",
+				"articlegroup"
+			],
+			[
+				"butt",
+				"link-button"
+			],
+			[
+				"latesta",
+				"latest_article"
+			],
+			[
+				"art",
+				"article_sql"
+			],
+			[
+				"latest_",
+				"latest_articlegroup"
+			],
+			[
+				"la",
+				"latest_articlegroup_stmt"
+			],
+			[
+				"lat",
+				"latest_article_stmt"
+			],
+			[
+				"langua",
+				"language-waiting"
+			],
+			[
+				"lange_",
+				"langs_available"
+			],
+			[
+				"count",
+				"count_stmt"
+			],
+			[
+				"up",
+				"update_sql"
+			],
+			[
+				"confi",
+				"confirm_pass"
+			],
+			[
+				"glob",
+				"globals\t$GLOBALS['…']"
+			],
+			[
+				"_parsingKnown",
+				"_parsingKnownBad"
+			],
+			[
+				"_c",
+				"_currentKnownGoodColorIndex"
+			],
+			[
+				"_pars",
+				"_parsingValid"
+			],
+			[
+				"_sett",
+				"_settingsArray"
+			],
+			[
+				"app-",
+				"app-localstorage-document"
+			],
+			[
+				"just",
+				"_justTyped"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 1471,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "game.h",
+			"settings":
+			{
+				"buffer_size": 1480,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "board.h",
+			"settings":
+			{
+				"buffer_size": 3182,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "game.cpp",
+			"settings":
+			{
+				"buffer_size": 1432,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "operators.h",
+			"settings":
+			{
+				"buffer_size": 2013,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "operators.cpp",
+			"settings":
+			{
+				"buffer_size": 6403,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "board.cpp",
+			"settings":
+			{
+				"buffer_size": 5518,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "board_tostring.cpp",
+			"settings":
+			{
+				"buffer_size": 5749,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cell.h",
+			"settings":
+			{
+				"buffer_size": 563,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cell.cpp",
+			"settings":
+			{
+				"buffer_size": 1786,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"List",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"python",
+				"Set Syntax: Python3"
+			],
+			[
+				"sspython",
+				"Set Syntax: Python3"
+			],
+			[
+				"prettier",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ssc++",
+				"Set Syntax: C++"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"puppet",
+				"Set Syntax: Puppet"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ssbash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ssruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"rename",
+				"Emmet: Rename Tag"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"files",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/stephen/git/sudoku-solver",
+		"/Users/stephen/git/sudoku-solver/games"
+	],
+	"file_history":
+	[
+		"/Users/stephen/git/sudoku-solver/board.h",
+		"/Users/stephen/git/sudoku-solver/sudoku",
+		"/Users/stephen/git/sudoku-solver/Makefile",
+		"/Users/stephen/git/sudoku-solver/console.cpp",
+		"/Users/stephen/git/sudoku-solver/console.h",
+		"/Users/stephen/git/sudoku-solver/sudoku.sublime-project",
+		"/Users/stephen/git/sudoku-solver/sudoku.cpp",
+		"/Users/stephen/git/dropcaster/templates/channel.rss.erb",
+		"/Users/stephen/git/dropcaster/test/fixtures/test_template.json.erb",
+		"/Users/stephen/git/dropcaster/lib/dropcaster/channel.rb",
+		"/Users/stephen/git/dropcaster/lib/dropcaster.rb",
+		"/Users/stephen/git/dropcaster/test/unit/test_app.rb",
+		"/Users/stephen/git/dropcaster/test/unit/test_channel_xml.rb",
+		"/Users/stephen/git/dropcaster/test/unit/test_itunes_item.rb",
+		"/Users/stephen/git/dropcaster/lib/dropcaster/item.rb",
+		"/Users/stephen/git/dropcaster/templates/channel.html.erb",
+		"/Users/stephen/git/NetSparkleTest/NetSparkle.sln",
+		"/Users/stephen/git/dropcaster/bin/lstags",
+		"/Users/stephen/git/dropcaster/test/helper.rb",
+		"/Users/stephen/Library/Caches/com.binarynights.ForkLift-3/AB8C04A0-727A-4B9E-B4E9-9CD8586ECDA5/jack.html",
+		"/Users/stephen/Library/Application Support/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+		"/Users/stephen/Library/Application Support/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/Users/stephen/git/knockout-solver/gui.js",
+		"/Users/stephen/git/knockout-solver/package.json",
+		"/Users/stephen/git/knockout-solver/index.js",
+		"/Users/stephen/git/knockout-solver/knockout.js",
+		"/Users/stephen/git/puppet/README.md",
+		"/Users/stephen/stephenwade.me/puppet/server/manifests/apache.pp",
+		"/Users/stephen/stephenwade.me/puppet/server/manifests/users.pp",
+		"/Users/stephen/stephenwade.me/puppet/server/manifests/test.pp",
+		"/Users/stephen/git/puppet/server/manifests/hosts.pp",
+		"/Users/stephen/git/puppet/server/apply.sh",
+		"/Users/stephen/git/puppet/server/setup.sh",
+		"/Users/stephen/git/puppet/setup.sh",
+		"/Users/stephen/Desktop/Untitled",
+		"/Users/stephen/stephenwade.me/puppet/setup.sh",
+		"/Users/stephen/git/DSignMobile/DSignMobile.sln",
+		"/Users/stephen/stephenwade.me/puppet/old-scripts/rsync.sh",
+		"/Users/stephen/stephenwade.me/puppet/server/setup.sh",
+		"/Users/stephen/stephenwade.me/puppet/server/apply.sh",
+		"/Users/stephen/stephenwade.me/puppet/setup-server.sh",
+		"/Users/stephen/stephenwade.me/puppet/manifests/apache.pp",
+		"/Users/stephen/stephenwade.me/puppet/manifests/hosts.pp",
+		"/Users/stephen/stephenwade.me/puppet/manifests/mysql.pp",
+		"/Users/stephen/stephenwade.me/puppet/manifests/packages.pp",
+		"/Users/stephen/stephenwade.me/puppet/manifests/phpmyadmin.pp",
+		"/Users/stephen/stephenwade.me/puppet/manifests/swap.pp",
+		"/Users/stephen/stephenwade.me/puppet/manifests/users.pp",
+		"/Users/stephen/Mac/stephen/Desktop/summer-todo.mdown",
+		"/Users/stephen/git/dialogue/www/apis/push-register.php",
+		"/Users/stephen/git/dialogue/www/admins/articles.php",
+		"/Users/stephen/git/dialogue/www/admins/main-output.php",
+		"/Users/stephen/git/dialogue/www/admins/push.php",
+		"/Users/stephen/git/dialogue/www/admins/articles-group-new-edit.php",
+		"/Users/stephen/git/dialogue/www/apis/push-send.php",
+		"/Users/stephen/git/dialogue/www/admins/push-all.php",
+		"/Users/stephen/git/dialogue/www/apis/api.php",
+		"/Users/stephen/git/dialogue/www/apis/article.php",
+		"/Users/stephen/Desktop/old Mac/stephen/Desktop/summer-todo.mdown",
+		"/Users/stephen/git/dialogue/www/admins/pages-all.php",
+		"/Users/stephen/git/dialogue/www/admins/issues-deleteconfirm.php",
+		"/Users/stephen/git/dialogue/www/admins/pages.php",
+		"/Users/stephen/git/dialogue/www/admins/issues-all.php",
+		"/Users/stephen/git/dialogue/www/admins/articles-all.php",
+		"/Users/stephen/git/dialogue/www/admins/issues.php",
+		"/Users/stephen/git/dialogue/www/routes/admin.php",
+		"/Users/stephen/git/dialogue/www/dialogue.php",
+		"/Users/stephen/git/dialogue/www/apis/search.php",
+		"/Users/stephen/git/dialogue/misc/JSONAPIFormats.txt",
+		"/Users/stephen/git/dialogue/www/admins/update-new-fields.php",
+		"/Users/stephen/git/dialogue/www/admins/users-new-edit.php",
+		"/Users/stephen/git/dialogue/www/admins/users-all.php",
+		"/Users/stephen/git/dialogue/www/admins/pages-new-edit.php",
+		"/Users/stephen/git/dialogue/www/admins/pages-group-new-edit.php",
+		"/Users/stephen/git/dialogue/www/admins/issues-new-edit.php",
+		"/Users/stephen/git/dialogue/www/css/dialogue.css",
+		"/Users/stephen/git/dialogue/www/admins/articles-new-edit.php",
+		"/Users/stephen/git/dialogue/www/apis/articles-deleted.php",
+		"/Users/stephen/git/dialogue/www/router.php",
+		"/Users/stephen/git/dialogue/www/admins/users.php",
+		"/Users/stephen/git/dialogue/www/database.php",
+		"/Users/stephen/git/dialogue/www/apis/search-groups.php",
+		"/Users/stephen/git/dialogue/www/admins/main.php",
+		"/Users/stephen/git/dialogue/www/template.php",
+		"/Users/stephen/git/dialogue/www/apis/admin-newarticle-options.php",
+		"/Users/stephen/git/dialogue/www/routes/api.php",
+		"/Users/stephen/git/dialogue/www/apis/articles-index.php",
+		"/Users/stephen/git/dialogue/www/admins/articles-editgroup.php",
+		"/Users/stephen/git/dialogue/www/admins/articles-new.php",
+		"/Users/stephen/git/dialogue/www/admins/articles-edit.php",
+		"/Users/stephen/git/dialogue/www/admins/login.php",
+		"/Users/stephen/git/dialogue/www/admins/logout.php",
+		"/Users/stephen/git/dialogue/www/includes/search.php",
+		"/Users/stephen/git/dialogue/www/includes/index-script.php",
+		"/Users/stephen/git/dialogue/www/routes/static.php",
+		"/Users/stephen/git/dialogue/www/apis/parse-search-string.php",
+		"/Users/stephen/git/dialogue/www/articles-edit.php",
+		"/Users/stephen/git/dialogue/www/routes/404.php",
+		"/Users/stephen/git/dialogue/www/routes/articles.php",
+		"/Users/stephen/git/dialogue/www/routes/sw.php",
+		"/Users/stephen/git/dialogue/www/apis/issues.php",
+		"/Users/stephen/git/dialogue/www/routes/sitemap.php",
+		"/Users/stephen/git/dialogue/www/robots-dialogue.txt",
+		"/Users/stephen/git/dialogue/www/pages/coming-soon.html",
+		"/Users/stephen/git/dialogue/www/index.php",
+		"/Users/stephen/git/dialogue/www/apis/database.php",
+		"/Users/stephen/git/dialogue/www/admins/admin-login.php",
+		"/Users/stephen/git/dialogue/www/admin/admin-login.php",
+		"/Users/stephen/git/dialogue/www/admin/index.php",
+		"/Users/stephen/git/dialogue/www/admin/admin.php",
+		"/Users/stephen/git/nad-display/assets/js/weather.js",
+		"/Users/stephen/Downloads/esperanta-analizisto-export.json",
+		"/Users/stephen/git/esperanta-analizisto/elements/eo-settings.html",
+		"/Users/stephen/git/esperanta-analizisto/elements/EOReplacementBehavior.html",
+		"/Users/stephen/git/esperanta-analizisto/elements/eo-data.html",
+		"/Users/stephen/git/esperanta-analizisto/elements/eo-roots-view.html",
+		"/Users/stephen/git/esperanta-analizisto/elements/eo-auth.html",
+		"/Users/stephen/git/esperanta-analizisto/elements/eo-results.html",
+		"/Users/stephen/git/esperanta-analizisto/elements/eo-parser.html",
+		"/Users/stephen/git/esperanta-analizisto/elements/expand-button.html",
+		"/Users/stephen/git/esperanta-analizisto/elements/eo-input.html",
+		"/Users/stephen/git/esperanta-analizisto/bower.json",
+		"/Users/stephen/git/esperanta-analizisto/bower_components/paper-button/paper-button.html",
+		"/Users/stephen/git/esperanta-analizisto/bower_components/paper-button/index.html",
+		"/Users/stephen/git/esperanta-analizisto/bower_components/iron-a11y-keys-behavior/index.html",
+		"/Users/stephen/git/esperanta-analizisto/bower_components/webcomponentsjs/ShadowDOM.js",
+		"/Users/stephen/git/esperanta-analizisto/bower_components/webcomponentsjs/webcomponents.js",
+		"/Users/stephen/git/esperanta-analizisto/elements/firebase-array-guarantor.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 103.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"a, ",
+			"\"\\n\"",
+			"'\\\\n'",
+			"'\\n'",
+			"\"\\\\n\"",
+			"Step(result",
+			"!result.empty()",
+			"step_description",
+			"struct",
+			"= {}",
+			"std::string\\(\\)",
+			"\\.reserve",
+			"std::sort",
+			"// for",
+			"// std",
+			"\\.append",
+			"<<.*,",
+			"result << [^\\n]+\\n\\s+result",
+			"result\\.append",
+			"result\\.append\\(([^)]+)\\);",
+			"\\.append",
+			"result",
+			"std::set<Board::CellReference> result;",
+			"struct",
+			"Game::BoardValidationResult",
+			"^ *Board",
+			"cout",
+			"iostream",
+			"cell_index",
+			"logic_error",
+			"get_cell",
+			"get_box",
+			"get_col",
+			"get_row",
+			"cellchange",
+			" - 1",
+			"6",
+			"3",
+			"0",
+			"kboxlo",
+			"CellChange",
+			"Operators::CellChange",
+			"cellchange",
+			"std::pair<std::size_t, int>",
+			"/*",
+			"changes.push_back",
+			"const ",
+			"kBoxLookup[box_num - 1]",
+			"const ",
+			"changes.insert",
+			"set<.*?CellChange",
+			"std::set",
+			"auto change : region_changes",
+			"region_changes",
+			", board",
+			"col",
+			"operator<",
+			"std::set<Board::CellReference>",
+			"pair",
+			"std::size_t",
+			"1, 1",
+			"1,1",
+			"std::set",
+			"int",
+			"int ",
+			"int",
+			"for std::size_t",
+			"\\.size",
+			"validation_result",
+			"solve_result",
+			"validation_result",
+			"CellReference",
+			"Operators::CellReference",
+			"std::set<CellReference>",
+			"Board::CellReference",
+			"bool",
+			"CellReference",
+			"      CellReference cell_ref{i + 1, j + 1};\n\n      CellReference cell_ref{i + 1, j + 1};\n",
+			"      CellReference",
+			"\n      ",
+			"int",
+			"[a-z]{",
+			"{",
+			"contains",
+			"find",
+			"\\.contains",
+			"kFormatSolutionBegin",
+			"kFormatSolutionEnd",
+			",\n                                       bool highlight = false);",
+			", bool highlight",
+			"unused",
+			"const Cell& cell",
+			"advance",
+			"cell.",
+			"\\.tostring",
+			"Console",
+			"ToStringLine1",
+			"guesses_.",
+			"guesses_",
+			"Cell::",
+			"advance",
+			" const",
+			"if",
+			"switch",
+			"cell_list))",
+			"cell_list",
+			"if",
+			"\n    std::vector<int> solutions;\n    for (Cell *cell : cell_list) {\n      if (cell->solved())\n        solutions.push_back(cell->solution());\n    }\n\n    for (Cell *cell : cell_list) {\n      if (!cell->solved()) {\n        for (int solution : solutions)\n          cell->remove_guess(solution);\n      }\n    }",
+			"    std::vector<int> solutions;\n    for (Cell *cell : cell_list) {\n      if (cell->solved())\n        solutions.push_back(cell->solution());\n    }\n\n    for (Cell *cell : cell_list) {\n      if (!cell->solved()) {\n        for (int solution : solutions)\n          cell->remove_guess(solution);\n      }\n    }",
+			"SolveOnlyOccurrenceOfNumberInRegion",
+			"get",
+			"<= 9",
+			"int i",
+			"i",
+			"Solvers",
+			"get_row",
+			"row_from_file",
+			"stdexcept",
+			"for .* :",
+			"check",
+			"this",
+			"std::string ",
+			", std::string()",
+			"invalid",
+			"invalid_ar",
+			");",
+			"false, false,"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"'\\\\n'",
+			"'\\n'",
+			"result << \\1;",
+			"cell",
+			"box",
+			"col",
+			"row"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								879,
+								879
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "game.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								895,
+								895
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "board.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2440,
+								2440
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "game.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1188,
+								1188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "operators.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2013,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								850,
+								850
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "operators.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6403,
+								6403
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "board.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4198,
+								4198
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "board_tostring.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4969,
+								4969
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "cell.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "cell.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1072,
+								1072
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 175.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sudoku.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"test_template",
+				"test/fixtures/test_template.json.erb"
+			],
+			[
+				"push",
+				"admins/push.php"
+			],
+			[
+				"apis/art",
+				"apis/article.php"
+			],
+			[
+				"articles-group-edit",
+				"admins/articles-group-new-edit.php"
+			],
+			[
+				"articles",
+				"admins/articles.php"
+			],
+			[
+				"pages-all",
+				"admins/pages-all.php"
+			],
+			[
+				"issues-all",
+				"admins/issues-all.php"
+			],
+			[
+				"articles-all",
+				"admins/articles-all.php"
+			],
+			[
+				"issues.php",
+				"admins/issues.php"
+			],
+			[
+				"issues",
+				"admins/issues-deleteconfirm.php"
+			],
+			[
+				"dialogue",
+				"dialogue.php"
+			],
+			[
+				"search",
+				"apis/search.php"
+			],
+			[
+				"css",
+				"css/dialogue.css"
+			],
+			[
+				"pages",
+				"admins/pages-group-new-edit.php"
+			],
+			[
+				"pages-",
+				"admins/pages-new-edit.php"
+			],
+			[
+				"pages-a",
+				"admins/pages-all.php"
+			],
+			[
+				"articlegroup",
+				"admins/articles-group-new-edit.php"
+			],
+			[
+				"pages-group",
+				"admins/pages-group-new-edit.php"
+			],
+			[
+				"router",
+				"router.php"
+			],
+			[
+				"articles-group-",
+				"admins/articles-group-new-edit.php"
+			],
+			[
+				"articles-edit",
+				"admins/articles-new-edit.php"
+			],
+			[
+				"users-edit",
+				"admins/users-new-edit.php"
+			],
+			[
+				"database",
+				"database.php"
+			],
+			[
+				"articles-al",
+				"admins/articles-all.php"
+			],
+			[
+				"articlegroup-edit",
+				"admins/articles-group-new-edit.php"
+			],
+			[
+				"main.php",
+				"admins/main.php"
+			],
+			[
+				"admin-out",
+				"admins/main-output.php"
+			],
+			[
+				"articles-group-new",
+				"admins/articles-group-new-edit.php"
+			],
+			[
+				"articles-new",
+				"admins/articles-new-edit.php"
+			],
+			[
+				"main-output",
+				"admins/main-output.php"
+			],
+			[
+				"main",
+				"admins/main.php"
+			],
+			[
+				"users.php",
+				"admins/users.php"
+			],
+			[
+				"users-new",
+				"admins/users-new-edit.php"
+			],
+			[
+				"api",
+				"apis/api.php"
+			],
+			[
+				"articles-",
+				"admins/articles-all.php"
+			],
+			[
+				"aritcle-edit",
+				"admins/articles-edit.php"
+			],
+			[
+				"usersn",
+				"admins/users-new-edit.php"
+			],
+			[
+				"index",
+				"includes/index-script.php"
+			],
+			[
+				"apisearch",
+				"apis/search.php"
+			],
+			[
+				"dialogue.php",
+				"dialogue.php"
+			],
+			[
+				"parse",
+				"apis/parse-search-string.php"
+			],
+			[
+				"template",
+				"template.php"
+			],
+			[
+				"dialgu",
+				"dialogue.php"
+			],
+			[
+				"admins",
+				"admins/main.php"
+			],
+			[
+				"article",
+				"routes/articles.php"
+			],
+			[
+				"login",
+				"admins/login.php"
+			],
+			[
+				"sitemap",
+				"routes/sitemap.php"
+			],
+			[
+				"eorb",
+				"elements/EOReplacementBehavior.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
